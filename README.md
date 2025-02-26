@@ -156,12 +156,7 @@ Please ensure you update tests and documentation as appropriate.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped shape DevDDOS
-- Inspired by various load testing tools in the open-source community
-
 ## ⚠️ Disclaimer
 
-DevDDOS is designed for legitimate performance testing purposes only. Users are responsible for ensuring they have permission to perform load tests on target systems.
+With Great Power Comes Great Responsibility: DevDDOS is designed for legitimate performance testing purposes only. Users are responsible for ensuring they have permission to perform load tests on target systems.
 
