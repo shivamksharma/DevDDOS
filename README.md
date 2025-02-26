@@ -44,15 +44,8 @@ DevDDOS is a professional-grade load testing tool designed to evaluate web appli
 - Python 3.6 or higher
 - Go 1.16 or higher (for Go implementation)
 - pip (Python package manager)
-- Git
 
 ## 🔧 Installation
-
-### Using pip (Recommended)
-
-```bash
-pip install devddos
-```
 
 ### From Source
 
